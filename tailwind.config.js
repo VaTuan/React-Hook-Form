@@ -5,16 +5,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#FF6363",
+        primary: "#bf1650",
         secondary: {
-          100: "#E2E2D5",
-          200: "#888883",
+          100 : "#ff7aa8",
+          200: "#ec5990"
         },
         // setup custom color , has DEFAULT
         indigo: {
           light: "#b3bcf5",
           DEFAULT: "#5c6ac4",
         },
+        sidebar : '#191d3a'
       },
       fontFamily: {
         body: ['"Lato"'],

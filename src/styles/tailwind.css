@@ -19,6 +19,6 @@
 
 @layer components {
   .active-link {
-    @apply font-body-bold text-yellow-400;
+    @apply font-body-bold text-primary;
   }
 }

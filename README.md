@@ -1,6 +1,12 @@
 #setup redux, typescript
 
-> yarn create react-app my-app --template redux-typescript
+# Project da cai
+
+- Ts
+- Tailwind css
+- react-router-dom
+- react-hook-form
+  > yarn create react-app my-app --template redux-typescript
 
 #add react-router-dom
 
